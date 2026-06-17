@@ -1,0 +1,11 @@
+title: "Экскурсии по Казани"
+description: "Экскурсии по Казани с частным гидом от 500 ₽. Необычные маршруты, пешие прогулки, туры для детей и взрослых."
+url: "https://ekskursii-kazan.github.io"
+baseurl: ""
+lang: ru
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+timezone: Europe/Moscow
